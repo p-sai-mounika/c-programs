@@ -1,0 +1,14 @@
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+a>b;
+print('is less')
+a<b;
+print('is greater')
+a<=b;
+print('is equal to')
+a>=b;
+print('is greater to')
+a==b;
+print('is equal')
+a!=b;
+print('is not equal')
