@@ -1,0 +1,6 @@
+list={21, 13, 1, 14,9}
+print("enter any number")
+n=int(input()) 4 if n in list:
+print("yes")
+else:
+print("no")
