@@ -1,0 +1,6 @@
+list=[21,13,1,14,9]
+min=list [0]
+for i in the list:
+if i<min:
+min=i
+print ("minimum value:", min)
